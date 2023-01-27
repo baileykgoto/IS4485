@@ -9,7 +9,7 @@ Time spent: **20** hours spent in total
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Please click the following link to view my video presentation on this project.
 
 <img src='https://youtu.be/AgXBBWEoWkg' title='Project Walkthrough' width='' alt='Project Walkthrough' />
 
