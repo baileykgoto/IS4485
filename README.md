@@ -5,6 +5,14 @@ IS4485 code repository
 
 **Final Project** Contains files that I've used for my final project for my IS4485, Data Analysis with Python class.
 
+Languages Used: 
+* Python
+
+Libraries Used:
+* pandas
+* re
+* matplotlib
+
 Time spent: **20** hours spent in total
 
 ## Video Walkthrough
