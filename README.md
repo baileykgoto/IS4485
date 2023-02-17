@@ -19,5 +19,5 @@ Time spent: **20** hours spent in total
 
 Please click the following link to view my video presentation on this project.
 
-<img src='https://youtu.be/AgXBBWEoWkg' title='Project Walkthrough' width='' alt='Project Walkthrough' />
 
+https://youtu.be/AgXBBWEoWkg
